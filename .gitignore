@@ -1,6 +1,7 @@
 logs/
 npm-debug.log
 node_modules/
+package-lock.json
 coverage/
 .idea/
 run/
@@ -9,8 +10,8 @@ logs/
 .vscode
 *.swp
 *.lock
-*.js
 !.autod.conf.js
+typings
 
 app/**/*.js
 test/**/*.js
