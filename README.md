@@ -1,6 +1,6 @@
-# hackernews-async-ts
+# Egg-Typescript-Node-Starter
 
-[Hacker News](https://news.ycombinator.com/) Egg-Typescript-Node-Starter using typescript && egg
+Egg-Typescript-Node-Starter using typescript && egg
 
 ## QuickStart
 
