@@ -24,7 +24,7 @@
   "dependencies": {
     "egg": "^2.6.1",
     "egg-scripts": "^2.6.0",
-    "knex": "^0.20.15",
+    "knex": "^2.4.0",
     "lodash": "^4.17.15",
     "mysql": "^2.18.1"
   },
